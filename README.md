@@ -11,24 +11,11 @@ This project demonstrates how to integrate **CodeMirror** into a React applicati
 
 ## Installation
 
-1. Navigate to the project directory:
+. Dependencies:
 
     ```bash
-    cd codemirror-custom-highlighting
+    npm install @uiw/react-codemirror @uiw/codemirror-extensions-langs @codemirror/view @codemirror/state
     ```
-
-3. Install dependencies:
-
-    ```bash
-    npm install 
-    ```
-
-4. Run the project:
-
-    ```bash
-    npm start
-    ```
-
 ## Usage
 
 The project includes custom syntax highlighting for any text enclosed in `!{}`. You can use the CodeMirror editor to test this feature. 
