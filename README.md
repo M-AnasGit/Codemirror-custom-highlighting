@@ -11,13 +11,7 @@ This project demonstrates how to integrate **CodeMirror** into a React applicati
 
 ## Installation
 
-1. Clone this repository:
-
-    ```bash
-    git clone https://github.com/yourusername/codemirror-custom-highlighting.git
-    ```
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
     ```bash
     cd codemirror-custom-highlighting
@@ -26,7 +20,7 @@ This project demonstrates how to integrate **CodeMirror** into a React applicati
 3. Install dependencies:
 
     ```bash
-    npm install
+    npm install 
     ```
 
 4. Run the project:
