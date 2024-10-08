@@ -11,11 +11,12 @@ This project demonstrates how to integrate **CodeMirror** into a React applicati
 
 ## Installation
 
-. Dependencies:
+Dependencies:
 
-    ```bash
-    npm install @uiw/react-codemirror @uiw/codemirror-extensions-langs @codemirror/view @codemirror/state
-    ```
+```bash
+npm install @uiw/react-codemirror @uiw/codemirror-extensions-langs @codemirror/view @codemirror/state
+```
+
     
 ## Usage
 
