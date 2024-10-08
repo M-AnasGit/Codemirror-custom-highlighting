@@ -16,6 +16,7 @@ This project demonstrates how to integrate **CodeMirror** into a React applicati
     ```bash
     npm install @uiw/react-codemirror @uiw/codemirror-extensions-langs @codemirror/view @codemirror/state
     ```
+    
 ## Usage
 
 The project includes custom syntax highlighting for any text enclosed in `!{}`. You can use the CodeMirror editor to test this feature. 
